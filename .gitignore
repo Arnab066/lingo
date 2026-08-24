@@ -1,0 +1,20 @@
+# Dependency folders
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Production build folder
+client/dist/
+
+# Environmental configurations
+.env
+server/.env
+
+# Local IDE/System artifacts
+.vscode/
+.idea/
+.DS_Store
+*.log
+.oxlintrc.json
+client/.oxlintrc.json
+server/.oxlintrc.json
