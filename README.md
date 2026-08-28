@@ -3,9 +3,7 @@
 Lingo is a high-fidelity, interactive language learning application modeled directly on Duolingo. It is built using the MERN stack (MongoDB, Express, React, Node.js) and features JWT authentication, a time-regenerating 5-hearts health check, dynamic lessons for 50 different languages, and a Stripe-like payment checkout for upgrading to the premium "Super Lingo" subscription.
 
 🦉 **Fluent in Fun, Simple to Learn.**
-
 ---
-
 ## 🚀 Key Features
 
 *   **Secure JWT Authentication**: Register and log in securely. Credentials are encrypted on MongoDB using `bcryptjs` and session states are authorized using JSON Web Tokens.
